@@ -16,7 +16,7 @@ family = "hack"
 style = "Italic"
 
 [font.normal]
-family = "hack"
+family = "MesloLGS NF"
 style = "Regular"
 
 [[keyboard.bindings]]
